@@ -1,4 +1,4 @@
 node {
-   echo ' Testing webhook Anil 123456'
+   echo ' Testing webhook Anil'
 }
 
